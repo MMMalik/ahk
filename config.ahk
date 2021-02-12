@@ -1,9 +1,9 @@
 ; Default Windows Terminal profile for WSL projects 
 ; This value happens to be also WSL distro name
-WindowsTerminalWsl = "Ubuntu-20.04"
+WindowsTerminalWsl = Ubuntu-20.04
 
 ; Default Windows Terminal profile for Windows projects
-WindowsTerminalWindows = "Windows PowerShell"
+WindowsTerminalWindows = Windows PowerShell
 
 ; Home directory of WSL distro's user
 ; Note that this is Windows path
