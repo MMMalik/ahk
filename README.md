@@ -1,6 +1,6 @@
 ## Intro
 
-Window 10 + WSL 2 has recently become my setup of choice. This repo hosts some scripts that I use to facilitate day-to-day tasks.
+Windows 10 + WSL 2 has recently become my setup of choice. This repo hosts some scripts that I use to facilitate day-to-day tasks.
 
 ## Getting started
 
